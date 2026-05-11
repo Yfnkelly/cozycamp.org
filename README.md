@@ -1,2 +1,2 @@
 # cozycamp.org
-this is a medical consultation website
+this is a camping website
